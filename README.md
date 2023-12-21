@@ -10,5 +10,5 @@ kristokorgnurm/kristokorgnurm is your homepage repository.
 Its `README.md` (this file) appears on your GitHub profile.
 --->
 
-Copyright Kristo Korgnurm.
+Copyright Kristo Kõrgnurm.
 
