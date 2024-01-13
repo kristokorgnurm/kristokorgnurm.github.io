@@ -3,7 +3,7 @@
 -  Hi, I’m @kristokorgnurm
 -  I’m interested in software development.
 -  I’m currently learning Python programming at Software Development Academy.
--  You can reach me by email kristo.korgnurm@gmail.com
+-  You can reach me via email kristo.korgnurm@gmail.com
 
 <!---
 kristokorgnurm/kristokorgnurm is your homepage repository.
