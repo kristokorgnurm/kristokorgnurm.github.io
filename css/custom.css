@@ -1,3 +1,4 @@
+body {
   overflow-x: hidden;
   font-family: Helvetica, Arial, sans-serif;
 }
@@ -5,7 +6,7 @@
 .img_circle {
     height: 30%;
     width: 30%;
-    border-radius: 50%;
+    border-radius: 50% !important;
     padding-right: 10px;
 }
 
@@ -65,7 +66,7 @@ section h3.section-subheading {
 
 @media (min-width: 768px) {
   section {
-    padding: 150px 0;
+    padding: 75px 0;
   }
 }
 
