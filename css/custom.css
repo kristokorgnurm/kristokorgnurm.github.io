@@ -24,15 +24,15 @@ p {
 }
 
 a {
-  color: #fed136;
+  color: #225500;
 }
 
 a:hover {
-  color: #fec503;
+  color: #225500;
 }
 
 .text-primary {
-  color: #fed136 !important;
+  color: #225500 !important;
 }
 
 h1,
@@ -81,13 +81,13 @@ section h3.section-subheading {
 }
 
 .btn-primary {
-  background-color: #fed136;
-  border-color: #fed136;
+  background-color: #225500;
+  border-color: #225500;
 }
 
 .btn-primary:active, .btn-primary:focus, .btn-primary:hover {
-  background-color: #fec810 !important;
-  border-color: #fec810 !important;
+  background-color: #225500 !important;
+  border-color: #225500 !important;
   color: white;
 }
 
@@ -96,12 +96,12 @@ section h3.section-subheading {
 }
 
 ::-moz-selection {
-  background: #fed136;
+  background: #225500;
   text-shadow: none;
 }
 
 ::selection {
-  background: #fed136;
+  background: #225500;
   text-shadow: none;
 }
 
@@ -124,17 +124,17 @@ img::-moz-selection {
   text-transform: uppercase;
   color: white;
   border: 0;
-  background-color: #fed136;
+  background-color: #225500;
   font-family: Helvetica, Arial, sans-serif;
 }
 
 #mainNav .navbar-brand {
-  color: #fed136;
+  color: #fff;
   font-family: 'Alex Brush', Brush Script MT, Brush Script Std, Helvetica, Arial, cursive;
 }
 
 #mainNav .navbar-brand.active, #mainNav .navbar-brand:active, #mainNav .navbar-brand:focus, #mainNav .navbar-brand:hover {
-  color: #fec503;
+  color: #fff;
 }
 
 #mainNav .navbar-nav .nav-item .nav-link {
@@ -147,7 +147,7 @@ img::-moz-selection {
 }
 
 #mainNav .navbar-nav .nav-item .nav-link.active, #mainNav .navbar-nav .nav-item .nav-link:hover {
-  color: #fed136;
+  color: #225500;
 }
 
 @media (min-width: 992px) {
@@ -172,7 +172,7 @@ img::-moz-selection {
   #mainNav.navbar-shrink {
     padding-top: 0;
     padding-bottom: 0;
-    background-color: #212529;
+    background-color: #fff;
   }
   #mainNav.navbar-shrink .navbar-brand {
     font-size: 1.25em;
@@ -271,7 +271,7 @@ header.masthead .intro-text .intro-heading {
   text-align: center;
   opacity: 0;
   color: #fff;
-  background: #fed136;
+  background: #225500;
   -webkit-transition: all 0.2s;
   -moz-transition: all 0.2s;
   transition: all 0.2s;
